@@ -1,4 +1,4 @@
-###Django depotapp
+﻿###Django depotapp
 
 基于django的购物车应用，参照thinkinside的Django专栏教程编写http://blog.csdn.net/column/details/django.html，
 
