@@ -4,7 +4,7 @@
 
 ###相关信息
 + window下eclipse开发
-
+ddd
 + django版本1.4.1
 
 + python版本2.7.6
